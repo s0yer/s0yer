@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-⚡ Working with: C#, WiseJ, Python, and JS.
+⚡ Working with: C#, .Net, JS and Python.
 
 
           
