@@ -2,10 +2,9 @@
 
 ⚡ Working with: C#, .Net, JS and Python.
 
-
           
           
-🌱 Learning: Haskell, Dart and more.
+🌱 Learning: Kubernates, Terraform and news design Patterns(GoF).
 
 
 
@@ -13,7 +12,7 @@
 
 ### LinkedIn
 
-<a href="https://www.linkedin.com/in/jadson-marliere-de-oliveira-83b061102/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jadsonmarlieredeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Statistics
 
